@@ -5,7 +5,7 @@
 - 🤔 Buscando ajuda com Java e JavaScript...
 - 📫 Você pode me encontrar em gomesclara99x@gmail.com
 - 😄 Pronouns: Ela, She, Ella.
-- ⚡ Fun fact: Sou estudante de Relações Internacionais
+- ⚡ Fun fact: Sou estudante de Relações Internacionais E Ciência da Computação.
 <div>
   <a href="https://github.com/claragomz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claragomz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
