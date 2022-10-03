@@ -1,8 +1,8 @@
 ### Olá eu sou a Ana Clara Gomes 👋
 
 - 🔭 Estou começando a minha jornada nos códigos agora e.....
-- 🌱 Aprendendo Java
-- 🤔 Buscando ajuda com Java e JavaScript...
+- 🌱 Front end
+- 🤔 Buscando ajuda com JavaScript e ReactJS...
 - 📫 Você pode me encontrar em gomesclara99x@gmail.com
 - 😄 Pronouns: Ela, She, Ella.
 - ⚡ Fun fact: Sou estudante de Relações Internacionais E Ciência da Computação.
